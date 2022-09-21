@@ -1,3 +1,3 @@
 # kccitm
-DSA assihnments
+DSA assignments
 CPP and C
