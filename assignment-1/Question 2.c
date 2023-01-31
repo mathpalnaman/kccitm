@@ -4,9 +4,7 @@ using namespace std;
 
 int main() {
     int sum,a,b,c;
-    cin>>a;
-    cin>>b;
-    cin>>c;
+    cin>>a>>b>>c;
     if(1<=a<=b<=c<=100)
     {
         sum=a+b+c;
